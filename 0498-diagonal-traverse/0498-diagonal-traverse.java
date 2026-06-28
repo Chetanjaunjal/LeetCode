@@ -1,6 +1,5 @@
 public class Solution {
     public int[] findDiagonalOrder(int[][] arr) {
-        // if (arr == null || arr.length == 0) return new int[0];
 
         int m = arr.length, n = arr[0].length;
         int[] ans = new int[m * n];
