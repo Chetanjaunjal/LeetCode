@@ -1,20 +1,29 @@
 class Solution {
     public boolean isPalindrome(String s) {
-        int n = s.length();
-        StringBuilder ans = new StringBuilder();
-        for (int i = 0; i < n; i++) {
-            char ch = s.charAt(i);
-            if (ch >= 'A' && ch <= 'Z') {
-                ch = (char)(ch + 32);
-            }
-            if ((ch >= 'a' && ch <= 'z') || (ch >= '0' && ch <= '9')) {
-                ans.append(ch);
-            }
-        }
         int i = 0;
-        int j = ans.length() - 1;
+        int j = s.length() - 1;
         while (i < j) {
-            if (ans.charAt(i) != ans.charAt(j)) {
+            char ch1 = s.charAt(i);
+            char ch2 = s.charAt(j);
+            if (!((ch1 >= 'A' && ch1 <= 'Z') ||
+                  (ch1 >= 'a' && ch1 <= 'z') ||
+                  (ch1 >= '0' && ch1 <= '9'))) {
+                i++;
+                continue;
+            }
+            if (!((ch2 >= 'A' && ch2 <= 'Z') ||
+                  (ch2 >= 'a' && ch2 <= 'z') ||
+                  (ch2 >= '0' && ch2 <= '9'))) {
+                j--;
+                continue;
+            }
+            if (ch1 >= 'A' && ch1 <= 'Z') {
+                ch1 = (char)(ch1 + 32);
+            }
+            if (ch2 >= 'A' && ch2 <= 'Z') {
+                ch2 = (char)(ch2 + 32);
+            }
+            if (ch1 != ch2) {
                 return false;
             }
             i++;
