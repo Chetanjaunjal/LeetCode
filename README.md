@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Chetanjaunjal/LeetCode/tree/master/0217-contains-duplicate) |
+| [0771-jewels-and-stones](https://github.com/Chetanjaunjal/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Chetanjaunjal/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Counting Sort
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Chetanjaunjal/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Chetanjaunjal/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Chetanjaunjal/LeetCode/tree/master/0392-is-subsequence) |
+| [0771-jewels-and-stones](https://github.com/Chetanjaunjal/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1528-shuffle-string](https://github.com/Chetanjaunjal/LeetCode/tree/master/1528-shuffle-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Chetanjaunjal/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String Matching
