@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Chetanjaunjal/LeetCode/tree/master/0015-3sum) |
+| [0066-plus-one](https://github.com/Chetanjaunjal/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Chetanjaunjal/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Chetanjaunjal/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Chetanjaunjal/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -104,5 +105,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Chetanjaunjal/LeetCode/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/Chetanjaunjal/LeetCode/tree/master/0066-plus-one) |
 | [0415-add-strings](https://github.com/Chetanjaunjal/LeetCode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
