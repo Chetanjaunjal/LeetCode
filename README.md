@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Chetanjaunjal/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Chetanjaunjal/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Chetanjaunjal/LeetCode/tree/master/0217-contains-duplicate) |
+| [0303-range-sum-query-immutable](https://github.com/Chetanjaunjal/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0498-diagonal-traverse](https://github.com/Chetanjaunjal/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0766-toeplitz-matrix](https://github.com/Chetanjaunjal/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0896-monotonic-array](https://github.com/Chetanjaunjal/LeetCode/tree/master/0896-monotonic-array) |
@@ -113,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Chetanjaunjal/LeetCode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Chetanjaunjal/LeetCode/tree/master/0066-plus-one) |
 | [0415-add-strings](https://github.com/Chetanjaunjal/LeetCode/tree/master/0415-add-strings) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Chetanjaunjal/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Chetanjaunjal/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
