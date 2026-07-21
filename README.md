@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Chetanjaunjal/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Chetanjaunjal/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Chetanjaunjal/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Chetanjaunjal/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## String Matching
 |  |
 | ------- |
@@ -169,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chetanjaunjal/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Chetanjaunjal/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
