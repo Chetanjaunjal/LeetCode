@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Chetanjaunjal/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Chetanjaunjal/LeetCode/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/Chetanjaunjal/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Chetanjaunjal/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1408-string-matching-in-an-array](https://github.com/Chetanjaunjal/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1528-shuffle-string](https://github.com/Chetanjaunjal/LeetCode/tree/master/1528-shuffle-string) |
 | [1732-find-the-highest-altitude](https://github.com/Chetanjaunjal/LeetCode/tree/master/1732-find-the-highest-altitude) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Chetanjaunjal/LeetCode/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/Chetanjaunjal/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Chetanjaunjal/LeetCode/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Chetanjaunjal/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Chetanjaunjal/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Chetanjaunjal/LeetCode/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Chetanjaunjal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Chetanjaunjal/LeetCode/tree/master/0771-jewels-and-stones) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Chetanjaunjal/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/Chetanjaunjal/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Chetanjaunjal/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Chetanjaunjal/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Chetanjaunjal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1051-height-checker](https://github.com/Chetanjaunjal/LeetCode/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Chetanjaunjal/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-design-parking-system](https://github.com/Chetanjaunjal/LeetCode/tree/master/1603-design-parking-system) |
 | [1748-sum-of-unique-elements](https://github.com/Chetanjaunjal/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Chetanjaunjal/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
