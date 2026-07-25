@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Chetanjaunjal/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1408-string-matching-in-an-array](https://github.com/Chetanjaunjal/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1528-shuffle-string](https://github.com/Chetanjaunjal/LeetCode/tree/master/1528-shuffle-string) |
+| [1706-where-will-the-ball-fall](https://github.com/Chetanjaunjal/LeetCode/tree/master/1706-where-will-the-ball-fall) |
 | [1732-find-the-highest-altitude](https://github.com/Chetanjaunjal/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Chetanjaunjal/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1773-count-items-matching-a-rule](https://github.com/Chetanjaunjal/LeetCode/tree/master/1773-count-items-matching-a-rule) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Chetanjaunjal/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0766-toeplitz-matrix](https://github.com/Chetanjaunjal/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [1260-shift-2d-grid](https://github.com/Chetanjaunjal/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1706-where-will-the-ball-fall](https://github.com/Chetanjaunjal/LeetCode/tree/master/1706-where-will-the-ball-fall) |
 ## Simulation
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Chetanjaunjal/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1260-shift-2d-grid](https://github.com/Chetanjaunjal/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1603-design-parking-system](https://github.com/Chetanjaunjal/LeetCode/tree/master/1603-design-parking-system) |
+| [1706-where-will-the-ball-fall](https://github.com/Chetanjaunjal/LeetCode/tree/master/1706-where-will-the-ball-fall) |
 ## Binary Search
 |  |
 | ------- |
