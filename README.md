@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Chetanjaunjal/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0498-diagonal-traverse](https://github.com/Chetanjaunjal/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chetanjaunjal/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/Chetanjaunjal/LeetCode/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/Chetanjaunjal/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0896-monotonic-array](https://github.com/Chetanjaunjal/LeetCode/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Chetanjaunjal/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Chetanjaunjal/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/Chetanjaunjal/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0704-binary-search](https://github.com/Chetanjaunjal/LeetCode/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Chetanjaunjal/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Chetanjaunjal/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Two Pointers
