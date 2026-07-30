@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Chetanjaunjal/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Chetanjaunjal/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Chetanjaunjal/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0162-find-peak-element](https://github.com/Chetanjaunjal/LeetCode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/Chetanjaunjal/LeetCode/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/Chetanjaunjal/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0498-diagonal-traverse](https://github.com/Chetanjaunjal/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Chetanjaunjal/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Chetanjaunjal/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Chetanjaunjal/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/Chetanjaunjal/LeetCode/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Chetanjaunjal/LeetCode/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Chetanjaunjal/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Chetanjaunjal/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
