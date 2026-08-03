@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Chetanjaunjal/LeetCode/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/Chetanjaunjal/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Chetanjaunjal/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1406-stone-game-iii](https://github.com/Chetanjaunjal/LeetCode/tree/master/1406-stone-game-iii) |
 | [1408-string-matching-in-an-array](https://github.com/Chetanjaunjal/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chetanjaunjal/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/Chetanjaunjal/LeetCode/tree/master/1528-shuffle-string) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Chetanjaunjal/LeetCode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Chetanjaunjal/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Chetanjaunjal/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Chetanjaunjal/LeetCode/tree/master/1406-stone-game-iii) |
 ## Queue
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Chetanjaunjal/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chetanjaunjal/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Chetanjaunjal/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Chetanjaunjal/LeetCode/tree/master/1406-stone-game-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/Chetanjaunjal/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Chetanjaunjal/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3536-maximum-product-of-two-digits](https://github.com/Chetanjaunjal/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -242,4 +245,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Chetanjaunjal/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Chetanjaunjal/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Chetanjaunjal/LeetCode/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Chetanjaunjal/LeetCode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Chetanjaunjal/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
