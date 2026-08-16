@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Chetanjaunjal/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Chetanjaunjal/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1773-count-items-matching-a-rule](https://github.com/Chetanjaunjal/LeetCode/tree/master/1773-count-items-matching-a-rule) |
+| [2029-stone-game-ix](https://github.com/Chetanjaunjal/LeetCode/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Chetanjaunjal/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Chetanjaunjal/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Chetanjaunjal/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Chetanjaunjal/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-design-parking-system](https://github.com/Chetanjaunjal/LeetCode/tree/master/1603-design-parking-system) |
 | [1748-sum-of-unique-elements](https://github.com/Chetanjaunjal/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [2029-stone-game-ix](https://github.com/Chetanjaunjal/LeetCode/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Chetanjaunjal/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
 |  |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Chetanjaunjal/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Chetanjaunjal/LeetCode/tree/master/1510-stone-game-iv) |
 | [1903-largest-odd-number-in-string](https://github.com/Chetanjaunjal/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2029-stone-game-ix](https://github.com/Chetanjaunjal/LeetCode/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Chetanjaunjal/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Chetanjaunjal/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Chetanjaunjal/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Chetanjaunjal/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chetanjaunjal/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Chetanjaunjal/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2029-stone-game-ix](https://github.com/Chetanjaunjal/LeetCode/tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Chetanjaunjal/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Combinatorics
 |  |
@@ -302,18 +306,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Chetanjaunjal/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Chetanjaunjal/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Chetanjaunjal/LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Chetanjaunjal/LeetCode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Chetanjaunjal/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Chetanjaunjal/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Chetanjaunjal/LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Chetanjaunjal/LeetCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Chetanjaunjal/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Chetanjaunjal/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Chetanjaunjal/LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Chetanjaunjal/LeetCode/tree/master/2029-stone-game-ix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -363,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Chetanjaunjal/LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Chetanjaunjal/LeetCode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
