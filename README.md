@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/Chetanjaunjal/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Chetanjaunjal/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/Chetanjaunjal/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/Chetanjaunjal/LeetCode/tree/master/1927-sum-game) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Chetanjaunjal/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Chetanjaunjal/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Chetanjaunjal/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Chetanjaunjal/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Chetanjaunjal/LeetCode/tree/master/1563-stone-game-v) |
 | [1903-largest-odd-number-in-string](https://github.com/Chetanjaunjal/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/Chetanjaunjal/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Chetanjaunjal/LeetCode/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Chetanjaunjal/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Chetanjaunjal/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Chetanjaunjal/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chetanjaunjal/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Chetanjaunjal/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/Chetanjaunjal/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Chetanjaunjal/LeetCode/tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Chetanjaunjal/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Combinatorics
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Chetanjaunjal/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Chetanjaunjal/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Chetanjaunjal/LeetCode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Chetanjaunjal/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Chetanjaunjal/LeetCode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
