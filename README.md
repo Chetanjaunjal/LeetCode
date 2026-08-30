@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/Chetanjaunjal/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Chetanjaunjal/LeetCode/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Chetanjaunjal/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Chetanjaunjal/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Chetanjaunjal/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Chetanjaunjal/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Chetanjaunjal/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Chetanjaunjal/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Chetanjaunjal/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Chetanjaunjal/LeetCode/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Chetanjaunjal/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Chetanjaunjal/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Chetanjaunjal/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Combinatorics
