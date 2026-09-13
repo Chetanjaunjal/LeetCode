@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Chetanjaunjal/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Chetanjaunjal/LeetCode/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/Chetanjaunjal/LeetCode/tree/master/0766-toeplitz-matrix) |
+| [0835-image-overlap](https://github.com/Chetanjaunjal/LeetCode/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/Chetanjaunjal/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Chetanjaunjal/LeetCode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Chetanjaunjal/LeetCode/tree/master/0896-monotonic-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Chetanjaunjal/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/Chetanjaunjal/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0766-toeplitz-matrix](https://github.com/Chetanjaunjal/LeetCode/tree/master/0766-toeplitz-matrix) |
+| [0835-image-overlap](https://github.com/Chetanjaunjal/LeetCode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Chetanjaunjal/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1706-where-will-the-ball-fall](https://github.com/Chetanjaunjal/LeetCode/tree/master/1706-where-will-the-ball-fall) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Chetanjaunjal/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
