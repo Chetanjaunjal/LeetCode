@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Chetanjaunjal/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Chetanjaunjal/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Chetanjaunjal/LeetCode/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Chetanjaunjal/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Chetanjaunjal/LeetCode/tree/master/1872-stone-game-viii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Chetanjaunjal/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Queue
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Chetanjaunjal/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Chetanjaunjal/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Chetanjaunjal/LeetCode/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Chetanjaunjal/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Chetanjaunjal/LeetCode/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/Chetanjaunjal/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Chetanjaunjal/LeetCode/tree/master/1927-sum-game) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Chetanjaunjal/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Chetanjaunjal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/Chetanjaunjal/LeetCode/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Chetanjaunjal/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/Chetanjaunjal/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/Chetanjaunjal/LeetCode/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Chetanjaunjal/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Chetanjaunjal/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Chetanjaunjal/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Chetanjaunjal/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
