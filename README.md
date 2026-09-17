@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Chetanjaunjal/LeetCode/tree/master/1406-stone-game-iii) |
 | [1408-string-matching-in-an-array](https://github.com/Chetanjaunjal/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chetanjaunjal/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chetanjaunjal/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Chetanjaunjal/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1528-shuffle-string](https://github.com/Chetanjaunjal/LeetCode/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/Chetanjaunjal/LeetCode/tree/master/1539-kth-missing-positive-number) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Chetanjaunjal/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Chetanjaunjal/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Chetanjaunjal/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chetanjaunjal/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Chetanjaunjal/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Chetanjaunjal/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Chetanjaunjal/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Chetanjaunjal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/Chetanjaunjal/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Chetanjaunjal/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chetanjaunjal/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1748-sum-of-unique-elements](https://github.com/Chetanjaunjal/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Chetanjaunjal/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chetanjaunjal/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Chetanjaunjal/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Chetanjaunjal/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Chetanjaunjal/LeetCode/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chetanjaunjal/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Chetanjaunjal/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Chetanjaunjal/LeetCode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Chetanjaunjal/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -473,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chetanjaunjal/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Chetanjaunjal/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chetanjaunjal/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Chetanjaunjal/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
