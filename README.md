@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chetanjaunjal/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Chetanjaunjal/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Chetanjaunjal/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Chetanjaunjal/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Chetanjaunjal/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Chetanjaunjal/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Chetanjaunjal/LeetCode/tree/master/0075-sort-colors) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Chetanjaunjal/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chetanjaunjal/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chetanjaunjal/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Chetanjaunjal/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Chetanjaunjal/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Chetanjaunjal/LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Chetanjaunjal/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Chetanjaunjal/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/Chetanjaunjal/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/Chetanjaunjal/LeetCode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Chetanjaunjal/LeetCode/tree/master/0486-predict-the-winner) |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Chetanjaunjal/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Chetanjaunjal/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Chetanjaunjal/LeetCode/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/Chetanjaunjal/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Chetanjaunjal/LeetCode/tree/master/0232-implement-queue-using-stacks) |
@@ -418,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Chetanjaunjal/LeetCode/tree/master/0042-trapping-rain-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Chetanjaunjal/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Enumeration
 |  |
