@@ -120,16 +120,3 @@ class Solution {
         return sumSubarrayMaxs(arr) - sumSubarrayMins(arr);
     }
 }
-
-public class Main {
-    public static void main(String[] args) {
-
-        int[] arr = {1, 2, 3};
-
-        Solution sol = new Solution();
-
-        long ans = sol.subArrayRanges(arr);
-
-        System.out.println("The sum of subarray ranges is: " + ans);
-    }
-}
