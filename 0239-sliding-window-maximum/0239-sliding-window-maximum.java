@@ -20,6 +20,7 @@ class Solution {
                 index++;
             }
         }
+        System.gc();
         return ans;
     }
 }
