@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Chetanjaunjal/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Chetanjaunjal/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Chetanjaunjal/LeetCode/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/Chetanjaunjal/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Chetanjaunjal/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Chetanjaunjal/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Chetanjaunjal/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Chetanjaunjal/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Chetanjaunjal/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Chetanjaunjal/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Chetanjaunjal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Chetanjaunjal/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chetanjaunjal/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -588,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Chetanjaunjal/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chetanjaunjal/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Chetanjaunjal/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Chetanjaunjal/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -627,8 +631,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Chetanjaunjal/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/Chetanjaunjal/LeetCode/tree/master/0239-sliding-window-maximum) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Chetanjaunjal/LeetCode/tree/master/0901-online-stock-span) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Chetanjaunjal/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
