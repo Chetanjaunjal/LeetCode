@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Chetanjaunjal/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Chetanjaunjal/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Chetanjaunjal/LeetCode/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Chetanjaunjal/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Chetanjaunjal/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Chetanjaunjal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Chetanjaunjal/LeetCode/tree/master/0392-is-subsequence) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Chetanjaunjal/LeetCode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Chetanjaunjal/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Chetanjaunjal/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Chetanjaunjal/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Tree
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Chetanjaunjal/LeetCode/tree/master/0100-same-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Chetanjaunjal/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Chetanjaunjal/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Chetanjaunjal/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
