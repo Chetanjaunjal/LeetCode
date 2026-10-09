@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Chetanjaunjal/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1406-stone-game-iii](https://github.com/Chetanjaunjal/LeetCode/tree/master/1406-stone-game-iii) |
 | [1408-string-matching-in-an-array](https://github.com/Chetanjaunjal/LeetCode/tree/master/1408-string-matching-in-an-array) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Chetanjaunjal/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chetanjaunjal/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chetanjaunjal/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Chetanjaunjal/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Chetanjaunjal/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Chetanjaunjal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/Chetanjaunjal/LeetCode/tree/master/1140-stone-game-ii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Chetanjaunjal/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Chetanjaunjal/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Chetanjaunjal/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/Chetanjaunjal/LeetCode/tree/master/1732-find-the-highest-altitude) |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Chetanjaunjal/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Chetanjaunjal/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chetanjaunjal/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Chetanjaunjal/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Chetanjaunjal/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
