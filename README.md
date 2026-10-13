@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Chetanjaunjal/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chetanjaunjal/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Chetanjaunjal/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/Chetanjaunjal/LeetCode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Chetanjaunjal/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Chetanjaunjal/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Chetanjaunjal/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Chetanjaunjal/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Chetanjaunjal/LeetCode/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/Chetanjaunjal/LeetCode/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/Chetanjaunjal/LeetCode/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/Chetanjaunjal/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chetanjaunjal/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Chetanjaunjal/LeetCode/tree/master/0836-rectangle-overlap) |
