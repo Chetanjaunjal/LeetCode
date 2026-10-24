@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Chetanjaunjal/LeetCode/tree/master/1927-sum-game) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Chetanjaunjal/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Chetanjaunjal/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2409-count-days-spent-together](https://github.com/Chetanjaunjal/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Chetanjaunjal/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Chetanjaunjal/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Chetanjaunjal/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Chetanjaunjal/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Chetanjaunjal/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Chetanjaunjal/LeetCode/tree/master/2029-stone-game-ix) |
+| [2409-count-days-spent-together](https://github.com/Chetanjaunjal/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2485-find-the-pivot-integer](https://github.com/Chetanjaunjal/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Chetanjaunjal/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Chetanjaunjal/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
