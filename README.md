@@ -446,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Chetanjaunjal/LeetCode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Chetanjaunjal/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Chetanjaunjal/LeetCode/tree/master/0189-rotate-array) |
+| [0223-rectangle-area](https://github.com/Chetanjaunjal/LeetCode/tree/master/0223-rectangle-area) |
 | [0263-ugly-number](https://github.com/Chetanjaunjal/LeetCode/tree/master/0263-ugly-number) |
 | [0415-add-strings](https://github.com/Chetanjaunjal/LeetCode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Chetanjaunjal/LeetCode/tree/master/0441-arranging-coins) |
@@ -779,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/Chetanjaunjal/LeetCode/tree/master/0223-rectangle-area) |
 | [0812-largest-triangle-area](https://github.com/Chetanjaunjal/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/Chetanjaunjal/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Chetanjaunjal/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
