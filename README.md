@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Chetanjaunjal/LeetCode/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/Chetanjaunjal/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Chetanjaunjal/LeetCode/tree/master/0877-stone-game) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Chetanjaunjal/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0896-monotonic-array](https://github.com/Chetanjaunjal/LeetCode/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/Chetanjaunjal/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Chetanjaunjal/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Chetanjaunjal/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0766-toeplitz-matrix](https://github.com/Chetanjaunjal/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/Chetanjaunjal/LeetCode/tree/master/0835-image-overlap) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Chetanjaunjal/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1254-number-of-closed-islands](https://github.com/Chetanjaunjal/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Chetanjaunjal/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/Chetanjaunjal/LeetCode/tree/master/1267-count-servers-that-communicate) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Chetanjaunjal/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Chetanjaunjal/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Chetanjaunjal/LeetCode/tree/master/0877-stone-game) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Chetanjaunjal/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1140-stone-game-ii](https://github.com/Chetanjaunjal/LeetCode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Chetanjaunjal/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Chetanjaunjal/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -775,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Chetanjaunjal/LeetCode/tree/master/0836-rectangle-overlap) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Chetanjaunjal/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Chetanjaunjal/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Bracket Sequences
 |  |
