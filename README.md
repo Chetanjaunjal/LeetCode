@@ -446,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Chetanjaunjal/LeetCode/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/Chetanjaunjal/LeetCode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Chetanjaunjal/LeetCode/tree/master/0066-plus-one) |
+| [0089-gray-code](https://github.com/Chetanjaunjal/LeetCode/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/Chetanjaunjal/LeetCode/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/Chetanjaunjal/LeetCode/tree/master/0223-rectangle-area) |
 | [0263-ugly-number](https://github.com/Chetanjaunjal/LeetCode/tree/master/0263-ugly-number) |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Chetanjaunjal/LeetCode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Chetanjaunjal/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Chetanjaunjal/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/Chetanjaunjal/LeetCode/tree/master/0371-sum-of-two-integers) |
@@ -707,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Chetanjaunjal/LeetCode/tree/master/0022-generate-parentheses) |
+| [0089-gray-code](https://github.com/Chetanjaunjal/LeetCode/tree/master/0089-gray-code) |
 | [0301-remove-invalid-parentheses](https://github.com/Chetanjaunjal/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Chetanjaunjal/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Chetanjaunjal/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
