@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Chetanjaunjal/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Chetanjaunjal/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Chetanjaunjal/LeetCode/tree/master/0118-pascals-triangle) |
+| [0233-number-of-digit-one](https://github.com/Chetanjaunjal/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0392-is-subsequence](https://github.com/Chetanjaunjal/LeetCode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Chetanjaunjal/LeetCode/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/Chetanjaunjal/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Chetanjaunjal/LeetCode/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/Chetanjaunjal/LeetCode/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/Chetanjaunjal/LeetCode/tree/master/0223-rectangle-area) |
+| [0233-number-of-digit-one](https://github.com/Chetanjaunjal/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/Chetanjaunjal/LeetCode/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/Chetanjaunjal/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/Chetanjaunjal/LeetCode/tree/master/0415-add-strings) |
@@ -633,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Chetanjaunjal/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/Chetanjaunjal/LeetCode/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/Chetanjaunjal/LeetCode/tree/master/0143-reorder-list) |
+| [0233-number-of-digit-one](https://github.com/Chetanjaunjal/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/Chetanjaunjal/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/Chetanjaunjal/LeetCode/tree/master/0486-predict-the-winner) |
 ## Game Theory
